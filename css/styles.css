@@ -1,0 +1,19 @@
+@media screen and (max-width:840px) {
+    img, p, #button{
+        width: 90%;
+        margin: auto;
+    }
+}
+.triangle {
+    width: 30px;
+    margin: auto;
+    border-top: solid #680404 20px;
+    border-left: solid transparent 30px;
+    border-right: solid transparent 30px;
+    border-bottom: solid transparent 0px;
+}
+body{
+    justify-content: space-between;
+    align-items: center;
+    
+}
